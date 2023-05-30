@@ -11,3 +11,4 @@ MA = (N1+N2+N3+N4)/4
 
 # SAÍDA DE DADOS
 print(MA)
+print("teste")
