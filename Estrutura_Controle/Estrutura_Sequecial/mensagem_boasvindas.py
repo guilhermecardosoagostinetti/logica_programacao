@@ -1,0 +1,8 @@
+## MENSAGEM DE BOAS VINDAS
+## AUTOR: PROF. GUILHERME CARDOSO AGOSTINETTI
+
+# ENTRADA DE DADOS
+nome = str(input("Qual o seu nome? "))
+
+# SAÍDA DE DADOS
+print("SEJA BEM-VINDO", nome, "!")
