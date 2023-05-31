@@ -1,3 +1,5 @@
+## DECLARAÇAO DE VARIÁVEIS
+# Autor: Prof. Guilherme Cardoso Agostinetti
 
 placa = "Pare!"
 furos = 2

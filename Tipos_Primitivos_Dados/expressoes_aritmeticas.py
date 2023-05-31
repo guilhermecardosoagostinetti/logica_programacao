@@ -1,4 +1,4 @@
-## DECLARAÇAO DE VARIÁVEIS
+## EXPRESSÕES ARITMÉTICAS
 # Autor: Prof. Guilherme Cardoso Agostinetti
 
 A = 5
