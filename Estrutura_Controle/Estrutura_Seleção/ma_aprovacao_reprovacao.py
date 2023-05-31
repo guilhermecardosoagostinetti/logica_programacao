@@ -1,4 +1,4 @@
-## MÉDIA ARITMÉTICA 4 BIMESTRES COM APROVAÇÃO
+## MÉDIA ARITMÉTICA 4 BIMESTRES 
 
 # ENTRADA DE DADOS
 N1 = float(input("N1: "))
@@ -12,5 +12,6 @@ MA = (N1+N2+N3+N4)/4
 # SAÍDA DE DADOS
 if (MA>=7):
     print("ALUNO APROVADO")
-
+else:
+    print("ALUNO REPROVADO")
 print(MA)
