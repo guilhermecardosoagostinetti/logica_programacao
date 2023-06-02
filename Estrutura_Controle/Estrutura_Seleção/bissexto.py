@@ -1,5 +1,5 @@
 ## VERIFICAR SE ANO É BISSEXTO 
-# ENTRADA DE DADOS
+# Autor: Guilherme Cardoso Agostinetti
 
 #IDÉIA: TODO ANO BISSEXTO É MULTIPLO DE 4
 
