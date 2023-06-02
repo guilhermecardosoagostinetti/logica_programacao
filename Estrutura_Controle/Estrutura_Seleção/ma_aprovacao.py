@@ -12,5 +12,4 @@ MA = (N1+N2+N3+N4)/4
 # SAÍDA DE DADOS
 if (MA>=7):
     print("ALUNO APROVADO")
-
 print(MA)
