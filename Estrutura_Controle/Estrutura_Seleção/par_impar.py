@@ -1,4 +1,7 @@
+## PAR ÍMPAR
+#AUTOR: Guilherme Cardoso Agostinetti
 
+#Entrada de Dados
 numero = int(input("NÚMERO:"))
 par_impar = numero % 2
 
