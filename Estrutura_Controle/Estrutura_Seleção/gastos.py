@@ -1,6 +1,6 @@
 
 salario = float(input("SALÁRIO:"))
-gatos = float(input("GASTOS:"))
+gastos = float(input("GASTOS:"))
 
 if salario>= gastos:
     print("VOCÊ ESTA DENTRO DO ORÇAMENTO")
