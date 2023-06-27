@@ -1,3 +1,4 @@
+# Autor: Guilherme Cardoso Agostinetti
 
 salario = float(input("SALÁRIO:"))
 gastos = float(input("GASTOS:"))
