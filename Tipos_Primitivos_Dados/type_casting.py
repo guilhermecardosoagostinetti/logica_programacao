@@ -12,7 +12,7 @@ print(type(maior_idade))
 
 # Casting
 
-# Pelo python ser dinamicamente tipado, o proproi python convertes 
+# Pelo python ser dinamicamente tipado, o proproi python convertes
 # seus dados pelo interpretador.
 
 # ------------------ Para Int---------------------------
